@@ -1,0 +1,2 @@
+# Cambiar NPM en angular CLI
+ng config --global cli.packageManager pnpm
